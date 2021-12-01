@@ -1,0 +1,7 @@
+﻿  main.c
+c:\users\asus\desktop\c_code\110360236_劉丞皓\6.36\source\main.c(13): warning C4473: 'scanf_s' : 傳遞給格式字串的引數不足
+  c:\users\asus\desktop\c_code\110360236_劉丞皓\6.36\source\main.c(13): note: 預留位置及其參數需要 2 個 variadic 引數，但卻提供了 1 個
+  c:\users\asus\desktop\c_code\110360236_劉丞皓\6.36\source\main.c(13): note: 缺少 variadic 引數 2 (其為格式字串 '%c' 所需)
+  c:\users\asus\desktop\c_code\110360236_劉丞皓\6.36\source\main.c(13): note: 此引數可用為緩衝區大小
+c:\users\asus\desktop\c_code\110360236_劉丞皓\6.36\source\main.c(33): warning C4715: 'q1': 不是所有控制路徑都傳回值
+  6.36.vcxproj -> C:\Users\ASUS\Desktop\c_code\110360236_劉丞皓\6.36\6.36\Debug\6.36.exe
